@@ -16,7 +16,7 @@ export const Items = () => {
 
   return (
     <>
-      <h2 className="text-l">Inventory</h2>
+      <h2 className="text-lg">Inventory</h2>
       <div>
         <button
           className="rounded border-solid border border-gray-800 bg-gray-200 hover:bg-gray-400 px-1 ml-4"
@@ -47,7 +47,7 @@ export const Items = () => {
           ))}
       </div>
       <div>
-        <h2 className="text-l">Total weight</h2>
+        <h2 className="text-lg">Total weight</h2>
         {Object.entries(items).reduce((acc, [val, info]) => {
           return getQuantity(val as keyof typeof items) * info.weight + acc;
         }, 0)}
