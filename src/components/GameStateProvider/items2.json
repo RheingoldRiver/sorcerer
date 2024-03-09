@@ -1,0 +1,181 @@
+{
+  "lunar pebble": {
+    "ingredients": [],
+    "weight": 1,
+    "element": "Moon"
+  },
+  "thunder gem": {
+    "ingredients": [],
+    "weight": 2,
+    "element": "Storm"
+  },
+  "ancient bark": {
+    "ingredients": [],
+    "weight": 4,
+    "element": "Earth"
+  },
+  "glowing mushroom": {
+    "ingredients": [],
+    "weight": 1,
+    "element": "Light"
+  },
+  "frost crystal": {
+    "ingredients": [],
+    "weight": 3,
+    "element": "Ice"
+  },
+  "moonlight tiara": {
+    "ingredients": [
+      {
+        "item": "lunar pebble",
+        "quantity": 3
+      },
+      {
+        "item": "crystal shard",
+        "quantity": 2
+      }
+    ],
+    "weight": 5,
+    "element": "Moon"
+  },
+  "thunderstrike rod": {
+    "ingredients": [
+      {
+        "item": "thunder gem",
+        "quantity": 2
+      },
+      {
+        "item": "ancient bark",
+        "quantity": 1
+      }
+    ],
+    "weight": 6,
+    "element": "Storm"
+  },
+  "treeheart shield": {
+    "ingredients": [
+      {
+        "item": "ancient bark",
+        "quantity": 5
+      },
+      {
+        "item": "crystal shard",
+        "quantity": 2
+      }
+    ],
+    "weight": 10,
+    "element": "Earth"
+  },
+  "illumination dust": {
+    "ingredients": [
+      {
+        "item": "glowing mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "lunar pebble",
+        "quantity": 1
+      }
+    ],
+    "weight": 2,
+    "element": "Light"
+  },
+  "frostfire amulet": {
+    "ingredients": [
+      {
+        "item": "frost crystal",
+        "quantity": 2
+      },
+      {
+        "item": "sunstone",
+        "quantity": 1
+      }
+    ],
+    "weight": 4,
+    "element": "Ice"
+  },
+  "galeforce boots": {
+    "ingredients": [
+      {
+        "item": "thunder gem",
+        "quantity": 1
+      },
+      {
+        "item": "featherlight boots",
+        "quantity": 1
+      }
+    ],
+    "weight": 4,
+    "element": "Storm"
+  },
+  "nightshade potion": {
+    "ingredients": [
+      {
+        "item": "glowing mushroom",
+        "quantity": 2
+      },
+      {
+        "item": "frost crystal",
+        "quantity": 1
+      }
+    ],
+    "weight": 3,
+    "element": "Poison"
+  },
+  "echo wand": {
+    "ingredients": [
+      {
+        "item": "thunder gem",
+        "quantity": 3
+      },
+      {
+        "item": "lunar pebble",
+        "quantity": 2
+      }
+    ],
+    "weight": 5,
+    "element": "Magic"
+  },
+  "solstice robe": {
+    "ingredients": [
+      {
+        "item": "sunstone",
+        "quantity": 2
+      },
+      {
+        "item": "lunar pebble",
+        "quantity": 3
+      }
+    ],
+    "weight": 7,
+    "element": "Light"
+  },
+  "glacier gauntlets": {
+    "ingredients": [
+      {
+        "item": "frost crystal",
+        "quantity": 3
+      },
+      {
+        "item": "ancient bark",
+        "quantity": 2
+      }
+    ],
+    "weight": 6,
+    "element": "Ice"
+  },
+  "arcane mushroom": {
+    "ingredients": [
+      {
+        "item": "glowing mushroom",
+        "quantity": 4
+      },
+      {
+        "item": "crystal shard",
+        "quantity": 1
+      }
+    ],
+    "weight": 2,
+    "element": "Magic"
+  }
+}
