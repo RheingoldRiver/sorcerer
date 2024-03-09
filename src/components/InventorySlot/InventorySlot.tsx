@@ -25,7 +25,6 @@ export const InventorySlot = ({
             ))}
           </ul>
           <>
-            Base ingredient
             <button
               className="rounded border-solid border border-gray-800 bg-gray-200 hover:bg-gray-400 px-1 ml-4"
               onClick={(e) => {
