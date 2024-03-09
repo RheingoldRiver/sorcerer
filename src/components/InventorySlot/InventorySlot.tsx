@@ -32,7 +32,7 @@ export const InventorySlot = ({
                 craftItem(item);
               }}
             >
-              Craft
+              Craft!
             </button>
             )
           </>
@@ -46,7 +46,7 @@ export const InventorySlot = ({
               addItem(item);
             }}
           >
-            Harvest
+            Harvest!
           </button>
           )
         </>
