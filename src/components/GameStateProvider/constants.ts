@@ -1,1 +1,1 @@
-export type Items = Record<string, number>;
+export type PlayerItems = Record<string, number>;
