@@ -22,7 +22,7 @@
   "orange juice": {
     "ingredients": [
       {
-        "item": "orange",
+        "ingredient": "orange",
         "quantity": 5
       }
     ],
@@ -32,7 +32,7 @@
   "crystal amulet": {
     "ingredients": [
       {
-        "item": "crystal shard",
+        "ingredient": "crystal shard",
         "quantity": 3
       }
     ],
@@ -42,7 +42,7 @@
   "mystic ink": {
     "ingredients": [
       {
-        "item": "mystic feather",
+        "ingredient": "mystic feather",
         "quantity": 2
       }
     ],
@@ -52,11 +52,11 @@
   "sunshine elixir": {
     "ingredients": [
       {
-        "item": "sunstone",
+        "ingredient": "sunstone",
         "quantity": 1
       },
       {
-        "item": "orange juice",
+        "ingredient": "orange juice",
         "quantity": 1
       }
     ],
@@ -66,11 +66,11 @@
   "featherlight boots": {
     "ingredients": [
       {
-        "item": "mystic feather",
+        "ingredient": "mystic feather",
         "quantity": 4
       },
       {
-        "item": "crystal shard",
+        "ingredient": "crystal shard",
         "quantity": 2
       }
     ],
@@ -80,11 +80,11 @@
   "reflective cloak": {
     "ingredients": [
       {
-        "item": "crystal shard",
+        "ingredient": "crystal shard",
         "quantity": 5
       },
       {
-        "item": "mystic feather",
+        "ingredient": "mystic feather",
         "quantity": 3
       }
     ],
@@ -94,11 +94,11 @@
   "flameheart pendant": {
     "ingredients": [
       {
-        "item": "sunstone",
+        "ingredient": "sunstone",
         "quantity": 2
       },
       {
-        "item": "crystal shard",
+        "ingredient": "crystal shard",
         "quantity": 1
       }
     ],
@@ -108,11 +108,11 @@
   "mystic quill": {
     "ingredients": [
       {
-        "item": "mystic feather",
+        "ingredient": "mystic feather",
         "quantity": 2
       },
       {
-        "item": "mystic ink",
+        "ingredient": "mystic ink",
         "quantity": 1
       }
     ],
